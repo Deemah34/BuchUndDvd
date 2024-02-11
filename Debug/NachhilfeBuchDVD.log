@@ -1,0 +1,17 @@
+﻿  _Buch.cpp
+  _DVD.cpp
+  _Datum.cpp
+  _Dozent.cpp
+  _Medienbibliothek.cpp
+  _Medium.cpp
+  main.cpp
+C:\Users\Manuel Schorpp\OneDrive\Desktop\NachhilfeBuchDVD\main.cpp(2,10): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+C:\Users\Manuel Schorpp\OneDrive\Desktop\NachhilfeBuchDVD\main.cpp(3,10): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+C:\Users\Manuel Schorpp\OneDrive\Desktop\NachhilfeBuchDVD\main.cpp(13,1): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+C:\Users\Manuel Schorpp\OneDrive\Desktop\NachhilfeBuchDVD\main.cpp(17,43): warning C4566: Das durch den universellen Zeichennamen "\u0308" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\Manuel Schorpp\OneDrive\Desktop\NachhilfeBuchDVD\main.cpp(22,11): warning C4566: Das durch den universellen Zeichennamen "\u0308" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\Manuel Schorpp\OneDrive\Desktop\NachhilfeBuchDVD\main.cpp(23,10): warning C4566: Das durch den universellen Zeichennamen "\u0308" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\Manuel Schorpp\OneDrive\Desktop\NachhilfeBuchDVD\main.cpp(24,10): warning C4566: Das durch den universellen Zeichennamen "\u0308" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\Manuel Schorpp\OneDrive\Desktop\NachhilfeBuchDVD\main.cpp(41,28): warning C4566: Das durch den universellen Zeichennamen "\u0308" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+  Code wird generiert...
+  NachhilfeBuchDVD.vcxproj -> C:\Users\Manuel Schorpp\OneDrive\Desktop\NachhilfeBuchDVD\Debug\NachhilfeBuchDVD.exe
